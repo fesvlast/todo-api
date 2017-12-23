@@ -1,0 +1,1 @@
+mongod.exe --dbpath F:\Lesson_js_and_php\webstorm\node2.0\mongo-data
